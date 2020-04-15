@@ -1,10 +1,11 @@
 # People
 
 ## B
-- [Stephen R. Bourne](http://en.wikipedia.org/wiki/Steve_Bourne) - creator of Bourne shell. Wikipedia. Retrieved April 11, 2020.
+- [Bemer, Robert William](https://en.wikipedia.org/wiki/Robert_William_Bemer) - known for early work as a computer pioneer, standardization of ASCII. Wikipedia. Retrieved April 15, 2020.
+- [Bourne, Stephen R.](http://en.wikipedia.org/wiki/Steve_Bourne) - creator of Bourne shell. Wikipedia. Retrieved April 11, 2020.
 
 ## F
-- [Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)) - creator of Bash, Readline, GNU Finger. Wikipedia. Retrieved April 11, 2020.
+- [Fox, Brian](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)) - creator of Bash, Readline, GNU Finger. Wikipedia. Retrieved April 11, 2020.
 
 ## Links
 
