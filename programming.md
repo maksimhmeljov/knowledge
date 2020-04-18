@@ -11,3 +11,5 @@
   - [Page](https://en.wikipedia.org/wiki/Page_(computer_memory)). Wikipedia. Retrieved April 17, 2020
 - [Character encoding](https://en.wikipedia.org/wiki/Character_encoding). Wikipedia. Retrieved April 13, 2020
   - [ASCII](https://en.wikipedia.org/wiki/ASCII). Wikipedia. Retrieved April 15, 2020
+- [Binary arithmetic](https://en.wikipedia.org/wiki/Category:Binary_arithmetic)
+  - [Binary number](https://en.wikipedia.org/wiki/Binary_number). Wikipedia. Retrieved April 18, 2020
