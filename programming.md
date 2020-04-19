@@ -13,3 +13,4 @@
   - [ASCII](https://en.wikipedia.org/wiki/ASCII). Wikipedia. Retrieved April 15, 2020
 - [Binary arithmetic](https://en.wikipedia.org/wiki/Category:Binary_arithmetic)
   - [Binary number](https://en.wikipedia.org/wiki/Binary_number). Wikipedia. Retrieved April 18, 2020
+  - [Bit manipulation](https://en.wikipedia.org/wiki/Bit_manipulation). Wikipedia. Retrieved April 19, 2020
