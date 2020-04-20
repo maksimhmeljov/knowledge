@@ -14,3 +14,4 @@
 - [Binary arithmetic](https://en.wikipedia.org/wiki/Category:Binary_arithmetic)
   - [Binary number](https://en.wikipedia.org/wiki/Binary_number). Wikipedia. Retrieved April 18, 2020
   - [Bit manipulation](https://en.wikipedia.org/wiki/Bit_manipulation). Wikipedia. Retrieved April 19, 2020
+  - [Bitwise operation](https://en.wikipedia.org/wiki/Bitwise_operation). Wikipedia. Retrieved April 20, 2020
