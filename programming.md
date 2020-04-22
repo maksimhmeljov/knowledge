@@ -16,3 +16,5 @@
   - [Bit manipulation](https://en.wikipedia.org/wiki/Bit_manipulation). Wikipedia. Retrieved April 19, 2020
   - [Bitwise operation](https://en.wikipedia.org/wiki/Bitwise_operation). Wikipedia. Retrieved April 20, 2020
   - [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering). Wikipedia. Retrieved April 21, 2020
+  - [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations). Wikipedia. Retrieved April 21, 2020
+  - [Two's complement](https://en.wikipedia.org/wiki/Two%27s_complement). Wikipedia. Retrieved April 22, 2020
