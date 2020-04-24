@@ -18,3 +18,7 @@
   - [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering). Wikipedia. Retrieved April 21, 2020
   - [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations). Wikipedia. Retrieved April 21, 2020
   - [Two's complement](https://en.wikipedia.org/wiki/Two%27s_complement). Wikipedia. Retrieved April 22, 2020
+- Computer files
+  - Linking
+    - [Hard link](https://en.wikipedia.org/wiki/Hard_link). Wikipedia. Retrieved April 23, 2020
+    - [Symbolic link](https://en.wikipedia.org/wiki/Symbolic_link). Wikipedia. Retrieved April 23, 2020

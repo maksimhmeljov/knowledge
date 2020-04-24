@@ -10,6 +10,10 @@
     - [A User's Guide to ZSH](http://zsh.sourceforge.net/Guide/) - A user-friendly user guide
     - [The Z Shell Manual](http://zsh.sourceforge.net/Doc/) - A texinfo version of the documentation for the Z Shell
 - Command-line tools
+  - [List of Unix commands](https://en.wikipedia.org/wiki/List_of_Unix_commands). Wikipedia. Retrieved April 24, 2020
+  - [List of GNU Core Utilities commands](https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands). Wikipedia. Retrieved April 24, 2020
+  - [util-linux](https://en.wikipedia.org/wiki/Util-linux). Wikipedia. Retrieved April 24, 2020
   - [cURL](https://en.wikipedia.org/wiki/CURL)
     - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
+  - stat(1) [Manual page]. Display file or file system status. `man 1 stat`
 - Shotts, William E. (2019). [The Linux Command Line](http://linuxcommand.org/tlcl.php) (Fifth Internet Edition). LinuxCommand.org.

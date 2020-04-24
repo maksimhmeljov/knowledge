@@ -12,4 +12,5 @@
     - LSB Workgroup, The Linux Foundation. (2015, March 19). [The FHS 3.0 Specification](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf). The Linux Foundation.
     - hier(7) [Manual page]. Description of the filesystem hierarchy. `man 7 hier`
     - file-hierarchy(7) [Manual page]. File system hierarchy overview. `man 7 file-hierarchy`
+  - symlink(7) [Manual page]. Symbolic link handling. `man 7 symlink`
 - [macOS](https://en.wikipedia.org/wiki/MacOS)
