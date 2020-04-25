@@ -22,3 +22,5 @@
   - Linking
     - [Hard link](https://en.wikipedia.org/wiki/Hard_link). Wikipedia. Retrieved April 23, 2020
     - [Symbolic link](https://en.wikipedia.org/wiki/Symbolic_link). Wikipedia. Retrieved April 23, 2020
+- Software documentation
+  - [man page](https://en.wikipedia.org/wiki/Man_page). Wikipedia. Retrieved April 25, 2020
