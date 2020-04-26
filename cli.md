@@ -15,5 +15,13 @@
   - [util-linux](https://en.wikipedia.org/wiki/Util-linux). Wikipedia. Retrieved April 24, 2020
   - [cURL](https://en.wikipedia.org/wiki/CURL)
     - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
-  - stat(1) [Manual page]. Display file or file system status. `man 1 stat`
+  - stat(1). Display file or file system status. `man stat.1`
+  - Documentation
+    - man(1). An interface to the on-line reference manuals. `man man.1`
+  - Firewall
+    - iptables(8) / ip6tables(8). Administration tool for IPv4/IPv6 packet filtering and NAT. `man iptables` / `man ip6tables`
+    - iptables-apply(8) / ip6tables-apply(8). A safer way to update iptables remotely. `man iptables-apply` / `man ip6tables-apply`
+    - iptables-restore(8) / ip6tables-restore(8). Restore IP Tables. `man iptables-restore` / `man ip6tables-restore`
+    - iptables-save(8) / ip6tables-save(8). Dump iptables rules to stdout. `man iptables-save` / `man ip6tables-save`
+    - ufw(8). Program for managing a netfilter firewall. `man ufw`
 - Shotts, William E. (2019). [The Linux Command Line](http://linuxcommand.org/tlcl.php) (Fifth Internet Edition). LinuxCommand.org.
