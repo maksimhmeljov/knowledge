@@ -18,6 +18,7 @@
     - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
   - stat(1). Display file or file system status. `man stat.1`
   - Documentation
+    - [info](https://en.wikipedia.org/wiki/Info_(Unix)). Wikipedia. Retrieved April 29, 2020. Read Info documents. `man info.1`
     - man(1). An interface to the on-line reference manuals. `man man.1`
   - Firewall
     - iptables(8) / ip6tables(8). Administration tool for IPv4/IPv6 packet filtering and NAT. `man iptables` / `man ip6tables`
