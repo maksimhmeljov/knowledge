@@ -18,12 +18,12 @@
     - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
   - stat(1). Display file or file system status. `man stat.1`
   - Documentation
-    - [info](https://en.wikipedia.org/wiki/Info_(Unix)). Wikipedia. Retrieved April 29, 2020. Read Info documents. `man info.1`
-    - man(1). An interface to the on-line reference manuals. `man man.1`
+    - [info](https://en.wikipedia.org/wiki/Info_(Unix)). Wikipedia. Retrieved April 29, 2020. Read Info documents.
+    - [man](https://en.wikipedia.org/wiki/Man_page). An interface to the on-line reference manuals.
   - Firewall
-    - iptables(8) / ip6tables(8). Administration tool for IPv4/IPv6 packet filtering and NAT. `man iptables` / `man ip6tables`
+    - [iptables](https://en.wikipedia.org/wiki/Iptables). Administration tool for IPv4/IPv6 packet filtering and NAT.
     - iptables-apply(8) / ip6tables-apply(8). A safer way to update iptables remotely. `man iptables-apply` / `man ip6tables-apply`
     - iptables-restore(8) / ip6tables-restore(8). Restore IP Tables. `man iptables-restore` / `man ip6tables-restore`
     - iptables-save(8) / ip6tables-save(8). Dump iptables rules to stdout. `man iptables-save` / `man ip6tables-save`
-    - ufw(8). Program for managing a netfilter firewall. `man ufw`
+    - [ufw](https://en.wikipedia.org/wiki/Uncomplicated_Firewall). Program for managing a netfilter firewall.
 - Shotts, William E. (2019). [The Linux Command Line](http://linuxcommand.org/tlcl.php) (Fifth Internet Edition). LinuxCommand.org.
