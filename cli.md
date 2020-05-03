@@ -18,8 +18,10 @@
     - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
   - stat(1). Display file or file system status. `man stat.1`
   - Documentation
+    - [apropos](https://en.wikipedia.org/wiki/Apropos_(Unix)) -  Search the manual page names and descriptions
     - [info](https://en.wikipedia.org/wiki/Info_(Unix)) - Read Info documents
     - [man](https://en.wikipedia.org/wiki/Man_page) - An interface to the on-line reference manuals
+    - [whatis](https://en.wikipedia.org/wiki/Whatis) - Display one-line manual page descriptions
   - Firewall
     - [iptables](https://en.wikipedia.org/wiki/Iptables) - Administration tool for IPv4/IPv6 packet filtering and NAT
     - iptables-apply / ip6tables-apply - A safer way to update iptables remotely. `man iptables-apply` / `man ip6tables-apply`
