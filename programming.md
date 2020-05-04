@@ -18,7 +18,7 @@
   - [Bit numbering](https://en.wikipedia.org/wiki/Bit_numbering)
   - [Signed number representations](https://en.wikipedia.org/wiki/Signed_number_representations)
   - [Two's complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-- Computer files
+- [Computer files](https://en.wikipedia.org/wiki/Computer_file)
   - Linking
     - [Hard link](https://en.wikipedia.org/wiki/Hard_link)
     - [Symbolic link](https://en.wikipedia.org/wiki/Symbolic_link)
