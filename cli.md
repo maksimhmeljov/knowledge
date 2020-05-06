@@ -4,7 +4,7 @@
 
 - [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
   - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-    - Chet Ramey, Case Western Reserve University. Brian Fox, Free Software Foundation. (2019). [Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/) (Edition 5.0, for Bash Version 5.0). Free Software Foundation.
+    - Chet Ramey, Case Western Reserve University. Brian Fox, Free Software Foundation. (2019). [Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/) (Edition 5.0, for Bash Version 5.0). Free Software Foundation. [PDF](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.pdf)
   - [Z shell (Zsh)](https://en.wikipedia.org/wiki/Z_shell)
     - [Z shell (Zsh)](https://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language
     - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A community-driven framework for managing your zsh configuration
