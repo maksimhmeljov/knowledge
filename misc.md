@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - [GitHub](https://en.wikipedia.org/wiki/GitHub)
   - [GitHub Help](https://help.github.com/en) - Help Documentation
 - Writing
