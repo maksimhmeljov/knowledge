@@ -2,7 +2,8 @@
 
 ## Links
 
-- [Open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+- [Software license](https://en.wikipedia.org/wiki/Software_license)
+  - [Open-source software](https://en.wikipedia.org/wiki/Open-source_software)
 - [GitHub](https://en.wikipedia.org/wiki/GitHub)
   - [GitHub Help](https://help.github.com/en) - Help Documentation
 - Writing
