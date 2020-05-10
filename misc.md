@@ -5,6 +5,8 @@
 - [Software license](https://en.wikipedia.org/wiki/Software_license)
   - [Free software](https://en.wikipedia.org/wiki/Free_software)
   - [Open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+  - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
+  - [Public-domain software](https://en.wikipedia.org/wiki/Public_domain_software)
   - [Source-available software](https://en.wikipedia.org/wiki/Source-available_software)
 - [GitHub](https://en.wikipedia.org/wiki/GitHub)
   - [GitHub Help](https://help.github.com/en) - Help Documentation
