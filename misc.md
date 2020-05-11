@@ -4,7 +4,9 @@
 
 - [Software license](https://en.wikipedia.org/wiki/Software_license)
   - [Free software](https://en.wikipedia.org/wiki/Free_software)
+    - [Copyleft](https://en.wikipedia.org/wiki/Copyleft) - [List of licenses](https://en.wikipedia.org/wiki/Category:Copyleft_software_licenses)
   - [Open-source software](https://en.wikipedia.org/wiki/Open-source_software)
+    - [Permissive license](https://en.wikipedia.org/wiki/Permissive_software_license) - [List of licenses](https://en.wikipedia.org/wiki/Category:Permissive_software_licenses)
   - [Proprietary software](https://en.wikipedia.org/wiki/Proprietary_software)
   - [Public-domain software](https://en.wikipedia.org/wiki/Public_domain_software)
   - [Source-available software](https://en.wikipedia.org/wiki/Source-available_software)
