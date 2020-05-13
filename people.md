@@ -7,6 +7,9 @@
 ## F
 - [Fox, Brian](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)) - creator of Bash, Readline, GNU Finger
 
+## S
+- [Stallman, Richard](https://en.wikipedia.org/wiki/Richard_Stallman) - known for free software movement, GNU, Emacs, GCC, GPL, copyleft, FSF
+
 ## Links
 
 - [List of programmers](https://en.wikipedia.org/wiki/List_of_programmers)
