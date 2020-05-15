@@ -17,6 +17,7 @@
   - [util-linux](https://en.wikipedia.org/wiki/Util-linux)
   - [cURL](https://en.wikipedia.org/wiki/CURL)
     - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
+    - [curl vs Wget](https://daniel.haxx.se/docs/curl-vs-wget.html) - What both commands do and how they differ
   - stat(1). Display file or file system status. `man stat.1`
   - Documentation
     - [apropos](https://en.wikipedia.org/wiki/Apropos_(Unix)) -  Search the manual page names and descriptions
