@@ -21,5 +21,6 @@
   - Tools
     - [Web scraping](https://en.wikipedia.org/wiki/Web_scraping)
     - [Web crawler](https://en.wikipedia.org/wiki/Web_crawler)
+    - [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing)
 - Writing
   - [Reference List: Electronic Sources](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_electronic_sources.html). The Purdue Online Writing Lab.
