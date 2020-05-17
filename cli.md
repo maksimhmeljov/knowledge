@@ -15,15 +15,17 @@
   - [List of Unix commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
   - [List of GNU Core Utilities commands](https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands)
   - [util-linux](https://en.wikipedia.org/wiki/Util-linux)
-  - [cURL](https://en.wikipedia.org/wiki/CURL)
-    - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
-    - [curl vs Wget](https://daniel.haxx.se/docs/curl-vs-wget.html) - What both commands do and how they differ
   - stat(1). Display file or file system status. `man stat.1`
   - Documentation
     - [apropos](https://en.wikipedia.org/wiki/Apropos_(Unix)) -  Search the manual page names and descriptions
     - [info](https://en.wikipedia.org/wiki/Info_(Unix)) - Read Info documents
     - [man](https://en.wikipedia.org/wiki/Man_page) - An interface to the on-line reference manuals
     - [whatis](https://en.wikipedia.org/wiki/Whatis) - Display one-line manual page descriptions
+  - Download
+    - [cURL](https://en.wikipedia.org/wiki/CURL)
+      - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
+      - [curl vs Wget](https://daniel.haxx.se/docs/curl-vs-wget.html) - What both commands do and how they differ
+    - [wget](https://en.wikipedia.org/wiki/Wget) - The non-interactive network downloader
   - Firewall
     - [iptables](https://en.wikipedia.org/wiki/Iptables) - Administration tool for IPv4/IPv6 packet filtering and NAT
     - iptables-apply / ip6tables-apply - A safer way to update iptables remotely. `man iptables-apply` / `man ip6tables-apply`
