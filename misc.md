@@ -23,6 +23,7 @@
     - [Web crawler](https://en.wikipedia.org/wiki/Web_crawler)
     - [Search engine indexing](https://en.wikipedia.org/wiki/Search_engine_indexing)
   - Brin, Sergey; Page, Lawrence (1998). [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html) -  In this paper, Sergey Brin and Lawrence Page present Google, a prototype of a large-scale search engine
+  - [Robots exclusion standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 - Software
   - Business applications
     - [GnuCash](https://en.wikipedia.org/wiki/GnuCash) - Accounting package
