@@ -15,3 +15,4 @@
     - file-hierarchy [Manual page]. File system hierarchy overview. `man file-hierarchy.7`
   - symlink [Manual page]. Symbolic link handling. `man symlink.7`
 - [macOS](https://en.wikipedia.org/wiki/MacOS)
+  - [Darwin](https://en.wikipedia.org/wiki/Darwin_(operating_system))
