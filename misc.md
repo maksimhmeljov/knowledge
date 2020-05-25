@@ -27,5 +27,7 @@
 - Software
   - Business applications
     - [GnuCash](https://en.wikipedia.org/wiki/GnuCash) - Accounting package
+  - System administration
+    - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
 - Writing
   - [Reference List: Electronic Sources](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_electronic_sources.html). The Purdue Online Writing Lab.
