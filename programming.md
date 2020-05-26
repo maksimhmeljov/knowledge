@@ -24,3 +24,4 @@
     - [Symbolic link](https://en.wikipedia.org/wiki/Symbolic_link)
 - Software documentation
   - [man page](https://en.wikipedia.org/wiki/Man_page)
+  - [README](https://en.wikipedia.org/wiki/README)
