@@ -5,3 +5,4 @@
 - [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))
   - [Vim Scripts](https://www.vim.org/scripts/index.php) - Vim online allows users to upload scripts that help enhance vim
   - [Janus: Vim Distribution](https://github.com/carlhuda/janus) - A distribution of plug-ins and mappings for Vim, Gvim and MacVim
+- [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
