@@ -5,6 +5,7 @@
 - [Programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
   - [Scripting languages](https://en.wikipedia.org/wiki/Scripting_language)
     - [Shell](https://en.wikipedia.org/wiki/Shell_script)
+      - [Shebang](https://en.wikipedia.org/wiki/Shebang_(Unix)) - Interpreter directive at the beginning of a script
   - [Command languages](https://en.wikipedia.org/wiki/Command_language)
     - [Shell](https://en.wikipedia.org/wiki/Unix_shell)
 - [Markup languages](https://en.wikipedia.org/wiki/Markup_language)
