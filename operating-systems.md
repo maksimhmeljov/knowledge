@@ -8,6 +8,7 @@
 - [POSIX](https://en.wikipedia.org/wiki/POSIX)
 - [Linux](https://en.wikipedia.org/wiki/Linux)
   - [Debian](https://en.wikipedia.org/wiki/Debian)
+    - Hertzog, Raphaёl; Mas, Roland (2020). [The Debian Administrator's Handbook](https://debian-handbook.info/get/). Debian Buster from Discovery to Mastery.
   - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
   - [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
     - LSB Workgroup, The Linux Foundation. (2015, March 19). [The FHS 3.0 Specification](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf). The Linux Foundation.
