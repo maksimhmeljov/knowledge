@@ -27,6 +27,7 @@
 - Software
   - Business applications
     - [GnuCash](https://en.wikipedia.org/wiki/GnuCash) - Accounting package
+    - [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - Office suite
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
 - Writing
