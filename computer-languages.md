@@ -5,6 +5,7 @@
 - [Programming languages](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
   - [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
   - [C](https://en.wikipedia.org/wiki/C_(programming_language))
+  - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [Shell](https://en.wikipedia.org/wiki/Shell_script)
 - [Markup languages](https://en.wikipedia.org/wiki/Markup_language)
   - [Markdown](https://en.wikipedia.org/wiki/Markdown)
