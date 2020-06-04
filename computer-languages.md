@@ -8,6 +8,7 @@
   - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
   - [Shell](https://en.wikipedia.org/wiki/Shell_script)
+  - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 - [Markup languages](https://en.wikipedia.org/wiki/Markup_language)
   - [Markdown](https://en.wikipedia.org/wiki/Markdown)
     - [Markdown](https://daringfireball.net/projects/markdown/syntax) - Markdown syntax by John Gruber
