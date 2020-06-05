@@ -30,5 +30,6 @@
     - [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - Office suite
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
+  - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
 - Writing
   - [Reference List: Electronic Sources](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_electronic_sources.html). The Purdue Online Writing Lab.
