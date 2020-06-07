@@ -32,5 +32,6 @@
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
     - [Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)
+    - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
 - Writing
   - [Reference List: Electronic Sources](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_electronic_sources.html). The Purdue Online Writing Lab.
