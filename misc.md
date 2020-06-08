@@ -31,6 +31,7 @@
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
+    - [Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
     - [Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)
     - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
 - Writing
