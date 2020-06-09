@@ -6,6 +6,7 @@
   - [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
   - [C](https://en.wikipedia.org/wiki/C_(programming_language))
   - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+  - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
   - [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
   - [Shell](https://en.wikipedia.org/wiki/Shell_script)
   - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
