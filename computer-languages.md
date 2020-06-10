@@ -11,6 +11,7 @@
   - [Shell](https://en.wikipedia.org/wiki/Shell_script)
   - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 - [Markup languages](https://en.wikipedia.org/wiki/Markup_language)
+  - [HTML](https://en.wikipedia.org/wiki/HTML)
   - [Markdown](https://en.wikipedia.org/wiki/Markdown)
     - [Markdown](https://daringfireball.net/projects/markdown/syntax) - Markdown syntax by John Gruber
     - [GitHub Flavored Markdown](https://github.github.com/gfm/) - A Markdown that is supported for user content on GitHub.com and GitHub Enterprise

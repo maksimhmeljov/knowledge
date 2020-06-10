@@ -28,6 +28,8 @@
   - Business applications
     - [GnuCash](https://en.wikipedia.org/wiki/GnuCash) - Accounting package
     - [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - Office suite
+      - [Documentation](https://documentation.libreoffice.org/en/english-documentation/)
+      - LibreOffice Documentation Team (2019). [LibreOffice Calc Guide 6.2](https://wiki.documentfoundation.org/images/c/c2/CG62-CalcGuide.pdf)
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
