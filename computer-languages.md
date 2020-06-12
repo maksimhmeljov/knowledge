@@ -8,6 +8,7 @@
   - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
   - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
   - [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+  - [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
   - [Shell](https://en.wikipedia.org/wiki/Shell_script)
   - [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 - [Markup languages](https://en.wikipedia.org/wiki/Markup_language)
