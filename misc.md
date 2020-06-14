@@ -32,6 +32,8 @@
       - LibreOffice Documentation Team (2019). [LibreOffice Calc Guide 6.2](https://wiki.documentfoundation.org/images/c/c2/CG62-CalcGuide.pdf)
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
+  - Video Editing
+    - [iMovie](https://en.wikipedia.org/wiki/IMovie)
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
     - [Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
     - [Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)
