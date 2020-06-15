@@ -25,6 +25,8 @@
   - Brin, Sergey; Page, Lawrence (1998). [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html) -  In this paper, Sergey Brin and Lawrence Page present Google, a prototype of a large-scale search engine
   - [Robots exclusion standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 - Software
+  - 3D computer graphics
+    - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
   - Business applications
     - [GnuCash](https://en.wikipedia.org/wiki/GnuCash) - Accounting package
     - [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - Office suite
@@ -32,7 +34,8 @@
       - LibreOffice Documentation Team (2019). [LibreOffice Calc Guide 6.2](https://wiki.documentfoundation.org/images/c/c2/CG62-CalcGuide.pdf)
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
-  - Video Editing
+  - Video editing
+    - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
     - [iMovie](https://en.wikipedia.org/wiki/IMovie)
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
     - [Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
