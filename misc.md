@@ -3,6 +3,7 @@
 ## Links
 
 - Digital container formats
+  - [AVI](https://en.wikipedia.org/wiki/Audio_Video_Interleave)
   - [Matroska](https://en.wikipedia.org/wiki/Matroska)
   - [MPEG-4](https://en.wikipedia.org/wiki/MPEG-4)
 - Internet search
