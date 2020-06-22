@@ -14,13 +14,15 @@
   - Brin, Sergey; Page, Lawrence (1998). [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/~backrub/google.html) -  In this paper, Sergey Brin and Lawrence Page present Google, a prototype of a large-scale search engine
   - [Robots exclusion standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 - Multimedia
+  - Audio coding formats
+    - [MP3](https://en.wikipedia.org/wiki/MP3)
+  - Video coding formats
+    - [H.264](https://en.wikipedia.org/wiki/Advanced_Video_Coding)
+    - [MPEG-4](https://en.wikipedia.org/wiki/MPEG-4)
   - [Digital container formats](https://en.wikipedia.org/wiki/Digital_container_format)
     - [AVI](https://en.wikipedia.org/wiki/Audio_Video_Interleave)
     - [Matroska](https://en.wikipedia.org/wiki/Matroska)
     - [MP4](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
-  - Video coding formats
-    - [H.264](https://en.wikipedia.org/wiki/Advanced_Video_Coding)
-    - [MPEG-4](https://en.wikipedia.org/wiki/MPEG-4)
 - Software
   - 3D computer graphics
     - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
