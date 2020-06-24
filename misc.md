@@ -16,7 +16,7 @@
 - Multimedia
   - [Audio coding formats](https://en.wikipedia.org/wiki/Audio_coding_format)
     - [MP3](https://en.wikipedia.org/wiki/MP3)
-  - Video coding formats
+  - [Video coding formats](https://en.wikipedia.org/wiki/Video_coding_format)
     - [H.264](https://en.wikipedia.org/wiki/Advanced_Video_Coding)
     - [MPEG-4](https://en.wikipedia.org/wiki/MPEG-4)
   - [Digital container formats](https://en.wikipedia.org/wiki/Digital_container_format)
