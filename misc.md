@@ -33,6 +33,8 @@
       - LibreOffice Documentation Team (2019). [LibreOffice Calc Guide 6.2](https://wiki.documentfoundation.org/images/c/c2/CG62-CalcGuide.pdf)
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
+  - Vector graphics editors
+    - [Inkscape](https://en.wikipedia.org/wiki/Inkscape)
   - Video editing
     - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
     - [iMovie](https://en.wikipedia.org/wiki/IMovie)
