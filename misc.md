@@ -26,7 +26,6 @@
 - Software
   - 3D computer graphics
     - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
-      - Mikeycal Meyers. [Blender Video Editing 2.7X Series](https://www.youtube.com/watch?v=UEIkIrYQYYY&list=PLjyuVPBuorqIhlqZtoIvnAVQ3x18sNev4)
   - Business applications
     - [GnuCash](https://en.wikipedia.org/wiki/GnuCash) - Accounting package
     - [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - Office suite
@@ -41,6 +40,8 @@
       - [Inkscape](https://en.wikipedia.org/wiki/Inkscape)
   - Video editing
     - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
+      - Mikeycal Meyers. [Blender Video Editing 2.7X Series](https://www.youtube.com/watch?v=UEIkIrYQYYY&list=PLjyuVPBuorqIhlqZtoIvnAVQ3x18sNev4)
+      - Michael Chu. [Blender for Video Editing (v2.79)](https://www.youtube.com/watch?v=a18EHEYhBf4&list=PLA-ADVxROXnDhrGzKdDvFwRtzFKdAYN-m)
     - [iMovie](https://en.wikipedia.org/wiki/IMovie)
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
     - [Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
