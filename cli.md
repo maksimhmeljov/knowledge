@@ -26,6 +26,8 @@
       - [Everything curl](https://curl.haxx.se/book.html) - The book documenting the curl project, the curl tool, libcurl and everything related to this
       - [curl vs Wget](https://daniel.haxx.se/docs/curl-vs-wget.html) - What both commands do and how they differ
     - [wget](https://en.wikipedia.org/wiki/Wget) - The non-interactive network downloader
+  - File synchronization
+    - [rsync](https://en.wikipedia.org/wiki/Rsync)
   - Firewall
     - [iptables](https://en.wikipedia.org/wiki/Iptables) - Administration tool for IPv4/IPv6 packet filtering and NAT
     - iptables-apply / ip6tables-apply - A safer way to update iptables remotely. `man iptables-apply` / `man ip6tables-apply`
