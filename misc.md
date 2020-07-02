@@ -50,6 +50,8 @@
     - [Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
     - [Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)
     - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser))
+  - Web server
+    - [Nginx](https://en.wikipedia.org/wiki/Nginx)
 - [Software license](https://en.wikipedia.org/wiki/Software_license)
   - [Public-domain software](https://en.wikipedia.org/wiki/Public_domain_software)
   - [Free software](https://en.wikipedia.org/wiki/Free_software)
