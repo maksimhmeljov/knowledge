@@ -39,8 +39,10 @@
   - Graphics
     - Raster graphics editors
       - [GIMP](https://en.wikipedia.org/wiki/GIMP)
+        - [Logos By Nick](https://www.youtube.com/c/LogosByNick/videos) - Weekly Inkscape and GIMP tutorials
     - Vector graphics editors
       - [Inkscape](https://en.wikipedia.org/wiki/Inkscape)
+        - [Logos By Nick](https://www.youtube.com/c/LogosByNick/videos) - Weekly Inkscape and GIMP tutorials
   - Video editing
     - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
       - Mikeycal Meyers. [Blender Video Editing 2.7X Series](https://www.youtube.com/watch?v=UEIkIrYQYYY&list=PLjyuVPBuorqIhlqZtoIvnAVQ3x18sNev4)
