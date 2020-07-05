@@ -23,6 +23,8 @@
     - [AVI](https://en.wikipedia.org/wiki/Audio_Video_Interleave)
     - [Matroska](https://en.wikipedia.org/wiki/Matroska)
     - [MP4](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
+- Online video platforms
+  - [YouTube](https://en.wikipedia.org/wiki/YouTube)
 - Software
   - 3D computer graphics
     - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
