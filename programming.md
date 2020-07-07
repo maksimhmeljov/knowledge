@@ -22,6 +22,7 @@
   - Linking
     - [Hard link](https://en.wikipedia.org/wiki/Hard_link)
     - [Symbolic link](https://en.wikipedia.org/wiki/Symbolic_link)
+  - [Data deduplication](https://en.wikipedia.org/wiki/Storage_de-duplication)
 - Software documentation
   - [man page](https://en.wikipedia.org/wiki/Man_page)
   - [README](https://en.wikipedia.org/wiki/README)
