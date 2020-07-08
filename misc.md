@@ -40,6 +40,7 @@
     - [Mozilla Thunderbird](https://en.wikipedia.org/wiki/Mozilla_Thunderbird)
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
+    - [fdupes](https://en.wikipedia.org/wiki/Fdupes) - Program for identifying or deleting duplicate files residing within specified directories
   - Graphics
     - Raster graphics editors
       - [GIMP](https://en.wikipedia.org/wiki/GIMP)
