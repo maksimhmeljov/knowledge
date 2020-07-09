@@ -41,6 +41,7 @@
   - System administration
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
     - [fdupes](https://en.wikipedia.org/wiki/Fdupes) - Program for identifying or deleting duplicate files residing within specified directories
+    - [FSLint](http://www.pixelbeat.org/fslint/) -  Linux file system lint checker/cleaner. [GitHub](https://github.com/pixelb/fslint)
   - Graphics
     - Raster graphics editors
       - [GIMP](https://en.wikipedia.org/wiki/GIMP)
