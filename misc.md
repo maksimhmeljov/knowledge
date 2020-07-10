@@ -53,6 +53,7 @@
     - [Blender](https://en.wikipedia.org/wiki/Blender_(software))
       - Mikeycal Meyers. [Blender Video Editing 2.7X Series](https://www.youtube.com/watch?v=UEIkIrYQYYY&list=PLjyuVPBuorqIhlqZtoIvnAVQ3x18sNev4)
       - Michael Chu. [Blender for Video Editing (v2.79)](https://www.youtube.com/watch?v=a18EHEYhBf4&list=PLA-ADVxROXnDhrGzKdDvFwRtzFKdAYN-m)
+      - Waylight Creations. [Blender 2.8 Video Editing](https://www.youtube.com/playlist?list=PLlXsqAWo0V6IiiThMKxaezET2sdO7grjQ)
     - [iMovie](https://en.wikipedia.org/wiki/IMovie)
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
     - [Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
