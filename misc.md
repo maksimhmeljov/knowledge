@@ -42,6 +42,7 @@
     - [ddrescue](https://en.wikipedia.org/wiki/Ddrescue) - Data recovery tool
     - [fdupes](https://en.wikipedia.org/wiki/Fdupes) - Program for identifying or deleting duplicate files residing within specified directories
     - [FSLint](http://www.pixelbeat.org/fslint/) -  Linux file system lint checker/cleaner. [GitHub](https://github.com/pixelb/fslint)
+    - [rdfind](https://rdfind.pauldreik.se/) - Find duplicate files utility. [Github](https://github.com/pauldreik/rdfind), [Ubuntu Manpage](http://manpages.ubuntu.com/manpages/trusty/man1/rdfind.1.html), [Homebrew](https://formulae.brew.sh/formula/rdfind)
   - Graphics
     - Raster graphics editors
       - [GIMP](https://en.wikipedia.org/wiki/GIMP)
