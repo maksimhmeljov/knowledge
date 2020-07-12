@@ -56,6 +56,7 @@
       - Michael Chu. [Blender for Video Editing (v2.79)](https://www.youtube.com/watch?v=a18EHEYhBf4&list=PLA-ADVxROXnDhrGzKdDvFwRtzFKdAYN-m)
       - Waylight Creations. [Blender 2.8 Video Editing](https://www.youtube.com/playlist?list=PLlXsqAWo0V6IiiThMKxaezET2sdO7grjQ)
     - [iMovie](https://en.wikipedia.org/wiki/IMovie)
+    - [Kdenlive](https://en.wikipedia.org/wiki/Kdenlive)
   - [Web browsers](https://en.wikipedia.org/wiki/Web_browser)
     - [Chrome](https://en.wikipedia.org/wiki/Google_Chrome)
     - [Firefox](https://en.wikipedia.org/wiki/Mozilla_Firefox)
